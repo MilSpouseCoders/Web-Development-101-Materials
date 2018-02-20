@@ -3,7 +3,7 @@
 ## What We Did Today
 1. **Sign up for Codecademy.** We will work through two of their coures:
    [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css). The
-   [schedule](Schedule.pdf) outlines what lessons you should have completed before each class. In class each week, we will
+   [schedule](https://github.com/MilSpouseCoders/Web-Development-101-Materials/blob/master/Schedule.pdf) outlines what lessons you should have completed before each class. In class each week, we will
    take what you've learned and apply it to a personal project.
 2. **Select a text editor** and then download, install, and configure it. We recommend [atom](https://atom.io/). If you chose
    Atom, it's a good idea to read over the article
