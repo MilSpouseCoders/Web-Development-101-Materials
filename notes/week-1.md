@@ -19,7 +19,7 @@
      - copy-cat site (try to replicate a site that you are familiar with)
      - something related to a hobby (or work)
      - a tribute page for something you're passionate about (basically a book report in website format with links and stuff)
-4. **Join the [MilSpouseCoders Study Group] on Facebook.** This is a great place to get help if you get stuck and don't want to wait until the next class.
+4. **Join the [MilSpouseCoders Study Group](https://www.facebook.com/groups/MilSpouseCodersStudyGroup/?ref=pages_profile_groups_tab&source_id=891215057608259) on Facebook.** This is a great place to get help if you get stuck and don't want to wait until the next class.
 
 ## Recommended Follow-Up Tasks
 - Watch this two minute video describing [what web development is](https://www.youtube.com/watch?v=Tl0x_zf8I78).
